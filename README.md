@@ -15,7 +15,7 @@ The app uses the camera permission solely to control the flashlight (torch). No 
 We use Google AdMob to display ads. AdMob may collect device information and use advertising ID to show relevant ads. For more information, see [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ## Contact
-If you have any questions, contact us at: ertugrulmehmetoglu235@gmail.com
+If you have any questions, contact us at: munostudios2@gmail.com
 
 ## Changes
 We may update this policy. Changes will be posted on this page.
